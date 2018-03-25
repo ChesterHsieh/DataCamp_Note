@@ -1,0 +1,30 @@
+
+Extend -> Variable Bag Size
+Error Analysis
+Application
+Case Study
+Conclusion
+
+
+What's this paper for:
+Provide a framewok .
+to sovle LLP problem
+Empirical Proportion Risk Minimization prove LLP problem can be solved
+
+
+
+LLP ~= 
+Can we learn label from labeld propoion, Ther leaerner is not learning true lable, insted of learning 
+proportion generation function
+Like voting, 
+You can only know final result, 
+
+Voting Example
+in given location , the sample are selectd randomly
+
+
+bag size 
+bag propostion
+
+R is risk
+L -> loss function
